@@ -9,4 +9,6 @@ export class AppComponent {
   title = 'Le titre de mon application';
 
   nom:string = "Jean";
+
+  verif:boolean = true;
 }
